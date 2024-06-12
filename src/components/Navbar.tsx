@@ -20,6 +20,9 @@ export default function Navbar() {
         <Link href='/photo' className='px-2 hover:text-gray-400'>
           Photo
         </Link>
+        <Link href='/pingpong' className='px-2 hover:text-gray-400'>
+          Pingpong
+        </Link>
       </div>
     </nav>
   )
